@@ -1,0 +1,6 @@
+{
+  "name": "Hotel La Bombonera - Motor de Reservas",
+  "description": "Sistema web y motor de reservas directas para el Hotel La Bombonera en Chepén, La Libertad, Perú con CRO avanzado, up-selling, pagos locales Yape/Plin y DataLayer MarTech inspector.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
